@@ -1,0 +1,17 @@
+CS2 HW5
+Grant Schumacher
+Work Log
+
+Skeleton program - 10 min //Setting up basic methods with stubs
+
+Algorithm Design - 35 min //Creating plan for algorithm on paper
+
+Revisiting printing to files - 5 min //Refresher
+
+Taking input file and populating array - 10 min //reading file, remove special characters
+
+Writing code for algorithm - 20 min //Hand written algorithm wasn't perfect, some corrections needed
+
+Testing - 20 min //Testing was done incrementally, using paragraph size portions of the text, growing in size every test
+
+Total time ~ 1hr 20 min
